@@ -5,5 +5,5 @@ import socket
 import sys 
 print ("Enter Your Target:") 
 hostname = input() 
-ip=socket.gethostbyname(hostname) 
-print("HOST NAME Is:",hostname,'\n' 'Target ip Is:',ip
+ip = socket.gethostbyname (اسم المضيف) 
+طباعة ("HOST NAME Is:" ، hostname ، '\ n' 'Target ip Is:' ، ip) 
